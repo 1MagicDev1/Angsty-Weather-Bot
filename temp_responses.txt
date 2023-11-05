@@ -1,0 +1,12 @@
+{
+    "Hot":    ["Damn, it's boiling.. I mean... it is: ", "My CPU is frying up - GET ME SOME SHADE ITS: ", "IT BURRNNSS IT BUUURRRRRRRRRNSSS: ",
+               "Wonder if I'd get a good tan or become a burnt chicken nugget in this heat... it's: ", "Beaches will turn to glass at this point... it's: "],
+    "Warm":   ["Time to whip out some shades, it's: ", "I would go outside but I ain't got legs... or a body... it's: ", "Go outside u lazy, lazy person, i haven't been programmed to be good with vocab... it's: ",
+               "Go on a hike or somethin, make ur life more interesting, it's: ", "Couldn't be bothered to think of another prompt, it's: "],
+    "Cool":   ["I've always wondered why it's called 'cool', maybe it's cuz it's cool to be out at this temp? idk, it's: ", "Such a boring temp, neither hot or cold, just a number and moving on... it's: ", "Cool like Coolaid, tho ngl my programmer never had that drink and it would prob kill me so... it's: ",
+               "Cool beans ;) (Note from MagicDev: I realise that phrase doesn't work there, just go with it) it's: ", "not hot, not cold, i'd personally stay in but u do what u wanna do ig, it's: "],
+    "Chilly": ["Eeee it be a lil chilly, maybe turn up the heat or somethin", "Maybe get an oversized hoodie or something... it's: ", "Idk about u but i prefer it being kinda chilly than kinda hotter, still, get a blankie or somethin, it's: ",
+               "Shut the windows and maybe have a radiator or something next to ya, it's: ", "We ain't talking about the food here, it's kinda chilly, it is: "],
+    "Cold":   ["I do like my CPUs cold but JESUS imma freeze up, it's: ", "I like it cold, u don't, set ur home on fire, it's: ", "Why do i see ice on mys--: ",
+               "Brrrrrr it's freezing it's: ", "Sheesh that's cold... it's: "]
+}

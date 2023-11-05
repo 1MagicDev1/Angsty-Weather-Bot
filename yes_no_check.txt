@@ -1,0 +1,5 @@
+{
+    "yes":       ["y", "ye", "yee", "yes", "yea", "yeah", "sure", "aight", "fine", "yes please", "please", "okay", "ok"],
+    "no":        ["n", "no", "nope", "nuh uh", "nah"],
+    "sarcastic": ["screw u", "go away", "screw u", "ur mom", "ur mum"]
+}
